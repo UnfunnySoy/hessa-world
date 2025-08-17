@@ -4,3 +4,4 @@
 
 ## Links from this page
 [[Craftsman\|Craftsman]]
+[[Oremaster\|Oremaster]]

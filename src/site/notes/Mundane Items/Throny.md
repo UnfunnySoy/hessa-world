@@ -3,4 +3,5 @@
 ---
 
 ## Links from this page
+[[Wildlife/Fauna and Monstra/Hessan Great Cow\|Hessan Great Cow]]
 ## Overview

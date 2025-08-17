@@ -5,7 +5,7 @@
 ## Links from this page
 [[Civilizations/Felmsgrace\|Felmsgrace]]
 [[Wildlife/Fauna and Monstra/Frosilisk\|Frosilisk]]
-[[Forgon\|Forgon]]
+[[Provinces/Forgon\|Forgon]]
 [[Wildlife/Fauna and Monstra/Forgon Ice Clam\|Forgon Ice Clam]]
 [[Frostmar\|Frostmar]]
 [[Civilizations/Glacier's Hold\|Glacier's Hold]]
@@ -24,8 +24,8 @@
 Across [[Hessa\|Hessa]]'s four provinces, different currencies have percolated throughout the commonwealth and have been used in trade over time. Each commonwealth mints their own currencies; however, leaders of the commonwealths have set weight requirements for coins and bars used in trade. Coins minted by the [provinces](Provinces) are typically interchangeable and universally accepted across the commonwealth with five different coins of differing value and constitution, but the coins frequently have different names and historical contexts attached to them. Several odd currencies are also dotted throughout [[Hessa\|Hessa]] typically in rural areas, taking the place of metal coins and trade goods when they aren't available.
 ## Metal Coins
 As described by commonwealth leaders, metal coins must contain between 1 and 1.1 ounces of the constituent metal which must be at least 90% purity. Coins that do not fit within these guidelines are considered null and void and should not be accepted by traders. 
-### [[Forgon\|Forgon]]
-The [[Forgon\|Forgon]] [province](Provinces) mints no metal coins due to the lack of metallic materials in the nearby area, instead typically opting to barter or exchange other measures of wealth. This unrestricted standard of currency can make trade difficult at times when typical metallic coins are unavailable, but is frequently less consequential due to [[Forgon\|Forgon]]'s lower populations. [[Forgon\|Forgon]] traders will often either barter goods, use nonmetallic currencies (see Nonmetal Currency later in this document), or use the coins of other [provinces](Provinces) in their trade.
+### [[Provinces/Forgon\|Forgon]]
+The [[Provinces/Forgon\|Forgon]] [province](Provinces) mints no metal coins due to the lack of metallic materials in the nearby area, instead typically opting to barter or exchange other measures of wealth. This unrestricted standard of currency can make trade difficult at times when typical metallic coins are unavailable, but is frequently less consequential due to [[Provinces/Forgon\|Forgon]]'s lower populations. [[Provinces/Forgon\|Forgon]] traders will often either barter goods, use nonmetallic currencies (see Nonmetal Currency later in this document), or use the coins of other [provinces](Provinces) in their trade.
 ### [[Frostmar\|Frostmar]]
 The [province](Provinces) of [[Frostmar\|Frostmar]] mints five different coins which are used in trade. Each coin is fashioned into small, square pieces with equal dimensions.
 #### Pol (1 cp)
@@ -49,7 +49,7 @@ The Goblet is an hourglass-shaped gold piece. The coin depicts an intricate gobl
 #### Tear (1 pp)
 A Tear is a teardrop shaped piece made of platinum. The coin's shape is made in reference to the commonly held belief that [[Faenivere\|Faenivere]] gave birth to the gods of the [elven pantheon](Elven%20Pantheon) after lamenting the struggles of the [elves](Snow%20Elf).
 ### [[Mershaw\|Mershaw]]
-The [[Mershaw\|Mershaw]] [province](Provinces) mints three different coins to be used in trade. Because most of [[Mershaw\|Mershaw]] is underdeveloped when compared to other [Hessan](Hessa) [provinces](Provinces) and has significantly less wealth, higher value coins have been deemed unnecessary. This combination of lack of wealth and proximity to the [[Forgon\|Forgon]] [province](Provinces) has lead to [[Mershaw\|Mershaw]] adopting similar trade habits to [[Forgon\|Forgon]], often using trade goods or nonmetal currency when coins lose their usefulness.
+The [[Mershaw\|Mershaw]] [province](Provinces) mints three different coins to be used in trade. Because most of [[Mershaw\|Mershaw]] is underdeveloped when compared to other [Hessan](Hessa) [provinces](Provinces) and has significantly less wealth, higher value coins have been deemed unnecessary. This combination of lack of wealth and proximity to the [[Provinces/Forgon\|Forgon]] [province](Provinces) has lead to [[Mershaw\|Mershaw]] adopting similar trade habits to [[Provinces/Forgon\|Forgon]], often using trade goods or nonmetal currency when coins lose their usefulness.
 #### Root (1 cp)
 The Root is a small copper coin used in frequent purchases. The coin is circular in shape with a small hole in the middle so that the coins might be tied together by running a string through the centers of them. The face of the coin illustrates the [inerga root](Inerga%20Root) which is a common ingredient throughout the region.
 #### Tool (1 sp)
@@ -58,11 +58,11 @@ The Tool is a small, triangular silver coin with a small hole in the middle. The
 The Strong is a small, square gold coin with a small hole in the middle. The Strong often depicts idealized representations of human muscles, such as biceps, chest muscles, abs, back muscles, thighs, and calves.
 ### Other Metal Coins
 #### [[Mundane Items/Mithril\|Mithril]] Piece (2 pp)
-The [mithril](Mithril) piece is an ancient coin used in the time of [[The Unearthing\|The Unearthing]]. Serving as an intermediate currency between the [dwarves of below](Deep%20Dwarf) and the surface-dwelling [elves](Snow%20Elf), the [[Mundane Items/Mithril\|Mithril]] piece was a greatly important tool used in diplomacy and trade between the two groups. Due to [mithril](Mithril)'s current rarity, the value of the metal is extremely great, and coins (when found and appraised by collectors and scholars) are worth great sums of money. 
+The [mithril](Mithril) piece is an ancient coin used in the time of [[The Unearthing\|The Unearthing]]. Serving as an intermediate currency between the [dwarves of below](Deep%20Dwarf) and the surface-dwelling [elves](Snow%20Elf), the [mithril](Mithril) piece was a greatly important tool used in diplomacy and trade between the two groups. Due to [mithril](Mithril)'s current rarity, the value of the metal is extremely great, and coins (when found and appraised by collectors and scholars) are worth great sums of money even individually. Most traders are not accepting of [mithril](Mithril) pieces in trade; however, collectors and blacksmiths would be floored to have the opportunity to purchase coins of the metal from adventurers.
 ## Nonmetal Currency
 ### [[Mundane Items/Throny\|Throny]] Token (1 cp - 5 sp)
 A [throny](Throny) token is a small carved tablet or nugget made from the ivory-like substance that grows in the body of the [great cow](Hessan%20Great%20Cow). The tokens vary in size, and so the value of a token is usually  approximated using its weight. As [throny](Throny) is an expensive trade good, tokens created from the substance are often small and made from the leftover scraps that remain after using [throny](Throny) in the crafting of an item.
 ### Forgon Pearls (5 sp - 1 pp)
-A [[Forgon\|Forgon]] pearl is a small bead of hard material created when a foreign object or organism penetrates the protective membrane of the [Forgon ice clam](Forgon%20Ice%20Clam). The pearls have a pale, algae colored sheen with varying depth of color. Often, the pearls are graded based off of the depth of their color, their shape, their size, and their glossiness. 
+A [[Provinces/Forgon\|Forgon]] pearl is a small bead of hard material created when a foreign object or organism penetrates the protective membrane of the [Forgon ice clam](Forgon%20Ice%20Clam). The pearls have a pale, algae colored sheen with varying depth of color. Often, the pearls are graded based off of the depth of their color, their shape, their size, and their glossiness. 
 ## See Also
 [5e Currency Standards](https://dnd5e.wikidot.com/currency)
