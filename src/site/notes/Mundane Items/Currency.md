@@ -19,7 +19,7 @@
 [[Provinces\|Provinces]]
 [[Wildlife/Flora/Shardstem\|Shardstem]]
 [[Races/Snow Elf\|Snow Elf]]
-[[Mundane Items/Throny\|Throny]]
+[[Mundane Items/Materials/Throny\|Throny]]
 ## Overview
 Across [[Hessa\|Hessa]]'s four provinces, different currencies have percolated throughout the commonwealth and have been used in trade over time. Each commonwealth mints their own currencies; however, leaders of the commonwealths have set weight requirements for coins and bars used in trade. Coins minted by the [provinces](Provinces) are typically interchangeable and universally accepted across the commonwealth with five different coins of differing value and constitution, but the coins frequently have different names and historical contexts attached to them. Several odd currencies are also dotted throughout [[Hessa\|Hessa]] typically in rural areas, taking the place of metal coins and trade goods when they aren't available.
 ## Metal Coins
@@ -47,7 +47,7 @@ The Bowl is a triangular silver piece. The face of the coin depicts a small deco
 #### Goblet (1 gp)
 The Goblet is an hourglass-shaped gold piece. The coin depicts an intricate goblet that might befit royalty.
 #### Tear (1 pp)
-A Tear is a teardrop shaped piece made of platinum. The coin's shape is made in reference to the commonly held belief that [[Faenivere\|Faenivere]] gave birth to the gods of the [elven pantheon](Elven%20Pantheon) after lamenting the struggles of the [elves](Snow%20Elf).
+A Tear is a teardrop shaped piece made of platinum. The coin's shape is made in reference to the commonly held belief that [[Pantheons/Elven Pantheon/Faenivere\|Faenivere]] gave birth to the gods of the [elven pantheon](Elven%20Pantheon) after lamenting the struggles of the [elves](Snow%20Elf).
 ### [[Mershaw\|Mershaw]]
 The [[Mershaw\|Mershaw]] [province](Provinces) mints three different coins to be used in trade. Because most of [[Mershaw\|Mershaw]] is underdeveloped when compared to other [Hessan](Hessa) [provinces](Provinces) and has significantly less wealth, higher value coins have been deemed unnecessary. This combination of lack of wealth and proximity to the [[Provinces/Forgon\|Forgon]] [province](Provinces) has lead to [[Mershaw\|Mershaw]] adopting similar trade habits to [[Provinces/Forgon\|Forgon]], often using trade goods or nonmetal currency when coins lose their usefulness.
 #### Root (1 cp)
@@ -57,11 +57,11 @@ The Tool is a small, triangular silver coin with a small hole in the middle. The
 #### Strong (1 gp)
 The Strong is a small, square gold coin with a small hole in the middle. The Strong often depicts idealized representations of human muscles, such as biceps, chest muscles, abs, back muscles, thighs, and calves.
 ### Other Metal Coins
-#### [[Mundane Items/Mithril\|Mithril]] Piece (2 pp)
-The [mithril](Mithril) piece is an ancient coin used in the time of [[The Unearthing\|The Unearthing]]. Serving as an intermediate currency between the [dwarves of below](Deep%20Dwarf) and the surface-dwelling [elves](Snow%20Elf), the [mithril](Mithril) piece was a greatly important tool used in diplomacy and trade between the two groups. Due to [mithril](Mithril)'s current rarity, the value of the metal is extremely great, and coins (when found and appraised by collectors and scholars) are worth great sums of money even individually. Most traders are not accepting of [mithril](Mithril) pieces in trade; however, collectors and blacksmiths would be floored to have the opportunity to purchase coins of the metal from adventurers.
+#### [[Mundane Items/Materials/Mithril\|Mithril]] Piece (2 pp)
+The [mithril](Mithril.md) piece is an ancient coin used in the time of [[The Unearthing\|The Unearthing]]. Serving as an intermediate currency between the [dwarves of below](Deep%20Dwarf) and the surface-dwelling [elves](Snow%20Elf), the [mithril](Mithril.md) piece was a greatly important tool used in diplomacy and trade between the two groups. Due to [mithril](Mithril.md)'s current rarity, the value of the metal is extremely great, and coins (when found and appraised by collectors and scholars) are worth great sums of money even individually. Most traders are not accepting of [mithril](Mithril.md) pieces in trade; however, collectors and blacksmiths would be floored to have the opportunity to purchase coins of the metal from adventurers.
 ## Nonmetal Currency
-### [[Mundane Items/Throny\|Throny]] Token (1 cp - 5 sp)
-A [throny](Throny) token is a small carved tablet or nugget made from the ivory-like substance that grows in the body of the [great cow](Hessan%20Great%20Cow). The tokens vary in size, and so the value of a token is usually  approximated using its weight. As [throny](Throny) is an expensive trade good, tokens created from the substance are often small and made from the leftover scraps that remain after using [throny](Throny) in the crafting of an item.
+### [[Mundane Items/Materials/Throny\|Throny]] Token (1 cp - 5 sp)
+A [throny](Throny.md) token is a small carved tablet or nugget made from the ivory-like substance that grows in the body of the [great cow](Hessan%20Great%20Cow). The tokens vary in size, and so the value of a token is usually  approximated using its weight. As [throny](Throny.md) is a valuable trade good, tokens created from the substance are often small and made from the leftover scraps that remain after using [throny](Throny.md) in the crafting of an item.
 ### Forgon Pearls (5 sp - 1 pp)
 A [[Provinces/Forgon\|Forgon]] pearl is a small bead of hard material created when a foreign object or organism penetrates the protective membrane of the [Forgon ice clam](Forgon%20Ice%20Clam). The pearls have a pale, algae colored sheen with varying depth of color. Often, the pearls are graded based off of the depth of their color, their shape, their size, and their glossiness. 
 ## See Also

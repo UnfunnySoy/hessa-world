@@ -10,7 +10,7 @@
 [[Civilizations/Drunth\|Drunth]]
 [[Evan Stormach\|Evan Stormach]]
 [[Evan's Outpost\|Evan's Outpost]]
-[[Faenivere\|Faenivere]]
+[[Pantheons/Elven Pantheon/Faenivere\|Faenivere]]
 [[Civilizations/Felmsgrace\|Felmsgrace]]
 [[Civilizations/Glacier's Hold\|Glacier's Hold]]
 [[Guldin\|Guldin]]
@@ -49,4 +49,4 @@ Many civilizations dot the Hessan landscape separated by large swathes of natura
 [[Civilizations/Stomerstood\|Stomerstood]]: A large coastal city consisting mostly of [humans](Human.md) which builds ships and gains many travelers. 
 [[Civilizations/Thuves\|Thuves]]: An ancient, exclusive [snow elf](Snow%20Elf.md) city that performs research and produces masterwork items.
 [[Wellstone\|Wellstone]]: A large town known as [[Hessa\|Hessa]]'s food capital. 
-[[Wreath\|Wreath]]: A highly religious [snow elf](Snow%20Elf.md) town full of [[Faenivere\|Faenivere]] acolytes.
+[[Wreath\|Wreath]]: A highly religious [snow elf](Snow%20Elf.md) town full of [[Pantheons/Elven Pantheon/Faenivere\|Faenivere]] acolytes.

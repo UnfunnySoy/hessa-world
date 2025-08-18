@@ -9,6 +9,7 @@
 [Homebrew Magic Items](https://docs.google.com/document/d/1Gok7-6kKU1rm5ghE3pTen_l8I9DjM7bpysYhdGWnwkg/edit?usp=sharing)
 [Homebrew Races](https://docs.google.com/document/d/1h4-oFIC70_2r6SX9buYZWVjvfBY-XtdyNSxewbJlj80/edit?usp=sharing)
 [Homebrew Spells](https://docs.google.com/document/d/1llQLKlujjPa3pWAMnABHsEUr1xvFp2KLn7DwPOjtwGM/edit?usp=sharing)
+[Lingering Injuries](https://docs.google.com/document/d/10sTtKNLwbu4wEjaFvz9t2GieTwtqVViC1LsZ48uT3iE/edit?usp=sharing)
 [Weapon Styles](https://docs.google.com/document/d/1JbRAcUY4Bn7FUkXiWT4z9lqz_Xl2HaW8r4D4BG5Ofs4/edit?usp=sharing)
 ## Overview
 This is a collection of all proposed mechanics and rules that should be implemented if this game is played using Dungeons and Dragons 5th Edition rules. This includes homebrew material written by yours truly and by others, optional 5e rules that should be expected, and other mechanics.
@@ -30,5 +31,7 @@ I have created a number of homebrew spells. Each spell has a person or group of 
 I have created a number of homebrew magic items. These will be used as rewards.
 ## [Homebrew Races](https://docs.google.com/document/d/1h4-oFIC70_2r6SX9buYZWVjvfBY-XtdyNSxewbJlj80/edit?usp=sharing)
 I have created a few homebrew racial options. These options are available to players during character creation.
+## [Lingering Injuries](https://docs.google.com/document/d/10sTtKNLwbu4wEjaFvz9t2GieTwtqVViC1LsZ48uT3iE/edit?usp=sharing)
+I have found a document which describes some neat lingering injuries. With a few rule adjustments, these injuries and mechanics should be used for raising the stakes of combat encounters.
 ## [Weapon Styles](https://docs.google.com/document/d/1JbRAcUY4Bn7FUkXiWT4z9lqz_Xl2HaW8r4D4BG5Ofs4/edit?usp=sharing)
 I have created a number of weapon styles which aim to add complexity and more interesting decision making to martial characters during combat. Weapon techniques can be learned from various tutors across [[Hessa\|Hessa]].

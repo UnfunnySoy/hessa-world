@@ -5,3 +5,6 @@
 ## Links from this page
 [[Craftsman\|Craftsman]]
 [[Oremaster\|Oremaster]]
+[[Spiriter\|Spiriter]]
+[[Observer\|Observer]]
+## Overview
