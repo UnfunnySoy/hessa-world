@@ -6,7 +6,7 @@
 [[Mundane Items/Currency\|Currency]]
 [[Hessa\|Hessa]]
 [[Mundane Items/Materials\|Materials]]
-[[Poisons\|Poisons]]
+[[Mundane Items/Poisons\|Poisons]]
 [[Mundane Items/Weapons\|Weapons]]
 [[Wildlife\|Wildlife]]
 ## Overview
@@ -14,5 +14,5 @@
 
 [[Mundane Items/Currency\|Currency]]: A list of currencies and stores of value throughout the [Hessan](Hessa) continent.
 [[Mundane Items/Materials\|Materials]]: A list of the various unique and fantastic materials found in [[Hessa\|Hessa]]
-[[Poisons\|Poisons]]: A grouping of dangerous poisons crafted from dangerous [Hessan organisms](Wildlife).
+[[Mundane Items/Poisons\|Poisons]]: A grouping of dangerous poisons crafted from dangerous [Hessan organisms](Wildlife).
 [[Mundane Items/Weapons\|Weapons]]: Unique weapons forged and used throughout the commonwealth through history.

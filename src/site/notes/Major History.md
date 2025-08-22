@@ -4,5 +4,5 @@
 
 ## Links from this page
 [[Major History/Age of God and Man\|Age of God and Man]]
-[[The Unearthing\|The Unearthing]]
+[[Major History/The Unearthing\|The Unearthing]]
 ## Overview
