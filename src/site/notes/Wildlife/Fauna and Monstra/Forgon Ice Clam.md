@@ -3,6 +3,7 @@
 ---
 
 ## Links from this page
+[[Mundane Items/Currency\|Currency]]
 [[Provinces/Forgon\|Forgon]]
 [[Hessa\|Hessa]]
 ## Overview

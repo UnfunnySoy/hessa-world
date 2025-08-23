@@ -13,6 +13,7 @@
 [[Pantheons\|Pantheons]]
 [[Provinces\|Provinces]]
 [[Races\|Races]]
+[[Session Information\|Session Information]]
 [[Spells and Magic\|Spells and Magic]]
 [[Wildlife\|Wildlife]]
 ## Overview

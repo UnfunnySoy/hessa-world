@@ -14,8 +14,8 @@
 [[Wildlife/Flora/Shardstem\|Shardstem]]
 [[Wildlife/Flora/Tarboul Toadstool\|Tarboul Toadstool]]
 ## Overview
-Flora is a classification of living, plantlike entities. Flora includes typical plants like trees and bushes, but also includes fungi and other similar organisms.
-## Species
+Flora is a classification of living, plantlike entities. Flora includes typical plants like trees and bushes, but also includes fungi and other similar organisms. Detailed below are a number of unique [Hessan](Hessa) flora.
+
 [[Wildlife/Flora/Bellblock Bush\|Bellblock Bush]]: A tough, green plant that grows a sweet purple berry.
 [[Wildlife/Flora/Brayshor Apple Tree\|Brayshor Apple Tree]]: A apple tree created by the [[Brayshor Circle\|Brayshor Circle]] which grows brilliant azure apples used in expensive goods.
 [[Wildlife/Flora/Hessan Great Pine\|Hessan Great Pine]]: A tall, hardy tree with flammable resin and waterproof wood useful in carpentry.

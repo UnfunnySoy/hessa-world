@@ -7,6 +7,7 @@
 [[Wildlife/Fauna and Monstra/Frosilisk\|Frosilisk]]
 [[Wildlife/Fauna and Monstra/Forgon Ice Clam\|Forgon Ice Clam]]
 [[Wildlife/Fauna and Monstra/Glangoose\|Glangoose]]
+[[Hessa\|Hessa]]
 [[Wildlife/Fauna and Monstra/Hessan Great Cow\|Hessan Great Cow]]
 [[Wildlife/Fauna and Monstra/Hessan Ice Wolf\|Hessan Ice Wolf]]
 [[Wildlife/Fauna and Monstra/Mistbear\|Mistbear]]
@@ -14,4 +15,14 @@
 [[Wildlife/Fauna and Monstra/Spideer\|Spideer]]
 [[Wildlife/Fauna and Monstra/Xanthous Crab\|Xanthous Crab]]
 ## Overview
-Fauna is a classification of creatures that share animal attributes. This category sometimes overlaps with elements of the [monstra](Monstra.md) classification, with creatures such as the [spideer](Spideer.md) belonging to both categories due to their animalistic and monstrous features in conjunction.
+Fauna is a classification of creatures that share animal attributes. This category sometimes overlaps with elements of the [monstra](Monstra.md) classification, with creatures such as the [spideer](Spideer.md) belonging to both categories due to their animalistic and monstrous features in conjunction. Detailed below are an amount of unique [Hessan](Hessa) animals.
+
+[[Wildlife/Fauna and Monstra/Eastern Ice Perch\|Eastern Ice Perch]]:
+[[Wildlife/Fauna and Monstra/Frosilisk\|Frosilisk]]:
+[[Wildlife/Fauna and Monstra/Forgon Ice Clam\|Forgon Ice Clam]]:
+[[Wildlife/Fauna and Monstra/Glangoose\|Glangoose]]:
+[[Wildlife/Fauna and Monstra/Hessan Great Cow\|Hessan Great Cow]]:
+[[Wildlife/Fauna and Monstra/Hessan Ice Wolf\|Hessan Ice Wolf]]:
+[[Wildlife/Fauna and Monstra/Mistbear\|Mistbear]]:
+[[Wildlife/Fauna and Monstra/Spideer\|Spideer]]:
+[[Wildlife/Fauna and Monstra/Xanthous Crab\|Xanthous Crab]]:
