@@ -5,6 +5,7 @@
 ## Links from this page
 [[Civilizations\|Civilizations]]
 [[Culture\|Culture]]
+[[Dungeon Master Information\|Dungeon Master Information]]
 [[Factions and Nobility\|Factions and Nobility]]
 [[Geography\|Geography]]
 [[Major History\|Major History]]
@@ -13,7 +14,6 @@
 [[Pantheons\|Pantheons]]
 [[Provinces\|Provinces]]
 [[Races\|Races]]
-[[Session Information\|Session Information]]
 [[Spells and Magic\|Spells and Magic]]
 [[Wildlife\|Wildlife]]
 ## Overview
