@@ -10,6 +10,7 @@
 [Homebrew Poisons](https://docs.google.com/document/d/1FZPBtOvEG1Sikockh1VAGZlgkI7U1oqLCwxXlgaoEt4/edit?usp=sharing)
 [Homebrew Races](https://docs.google.com/document/d/1h4-oFIC70_2r6SX9buYZWVjvfBY-XtdyNSxewbJlj80/edit?usp=sharing)
 [Homebrew Spells](https://docs.google.com/document/d/1llQLKlujjPa3pWAMnABHsEUr1xvFp2KLn7DwPOjtwGM/edit?usp=sharing)
+[Homebrew Stress Mechanics](https://docs.google.com/document/d/11PbKSleV6bvnil4hAn6i898diZv49piOldcXqtbE3io/edit?usp=sharing)
 [Lingering Injuries](https://docs.google.com/document/d/10sTtKNLwbu4wEjaFvz9t2GieTwtqVViC1LsZ48uT3iE/edit?usp=sharing)
 [Weapon Styles](https://docs.google.com/document/d/1JbRAcUY4Bn7FUkXiWT4z9lqz_Xl2HaW8r4D4BG5Ofs4/edit?usp=sharing)
 ## Overview
@@ -34,6 +35,8 @@ I have created a number of homebrew poisons. These will be purchasable and craft
 I have created a few homebrew racial options. These options are available to players during character creation.
 ## [Homebrew Spells](https://docs.google.com/document/d/1llQLKlujjPa3pWAMnABHsEUr1xvFp2KLn7DwPOjtwGM/edit?usp=sharing)
 I have created a number of homebrew spells. Each spell has a person or group of origin which details who created the spell. Spells under the *Common* category can be taken during character creation or as part of a level up, but spells under other categories cannot be learned unless certain prerequisites are met.
+## [Homebrew Stress Mechanics](https://docs.google.com/document/d/11PbKSleV6bvnil4hAn6i898diZv49piOldcXqtbE3io/edit?usp=sharing)
+I have created a new, simple mechanic to illustrate the consequences of pushing your limits as an adventurer. Stress is largely optional, but it provides you as a player with an opportunity to utilize your risk management skills to your advantage.
 ## [Lingering Injuries](https://docs.google.com/document/d/10sTtKNLwbu4wEjaFvz9t2GieTwtqVViC1LsZ48uT3iE/edit?usp=sharing)
 I have found a document which describes some neat lingering injuries. With a few rule adjustments, these injuries and mechanics should be used for raising the stakes of combat encounters.
 ## [Weapon Styles](https://docs.google.com/document/d/1JbRAcUY4Bn7FUkXiWT4z9lqz_Xl2HaW8r4D4BG5Ofs4/edit?usp=sharing)
