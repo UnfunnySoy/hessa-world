@@ -3,6 +3,7 @@
 ---
 
 ## Links from this page
+[Bastion Rules](https://i.4pcdn.org/tg/1730335258594480.pdf)
 [Downtime Guide](https://www.reddit.com/r/dndnext/comments/apblrv/nothing_to_do_a_guide_on_downtime/)
 [Gritty Realism Philosophy](https://www.reddit.com/r/DMAcademy/comments/u5cdoj/5e_gritty_realism_how_it_works_and_why_you_may/)
 [[Hessa\|Hessa]]
@@ -27,6 +28,8 @@ Feats are an optional rule outlined in the Player's Handbook. Feats are permitte
 Downtime refers to a set of rules outlined in both the Dungeon Master's Guide and Xanathar's Guide to Everything. I will try to use downtime rules frequently throughout the game. For information regarding downtime and how it can be used, [this reddit post can help](https://www.reddit.com/r/dndnext/comments/apblrv/nothing_to_do_a_guide_on_downtime/). The *Training to Gain Levels* downtime option is prohibited.
 ## Crafting
 Crafting rules are outlined in both the Dungeon Master's Guide and Xanathar's Guide to Everything. Similar to downtime, I plan to use the crafting rules outlined in both books (with a few alterations) to allow characters to craft items during downtime. 
+## [Bastion Rules](https://i.4pcdn.org/tg/1730335258594480.pdf)
+Rules for player bastions were created as part of the 2024 version of the Dungeon Master's Guide. If an opportunity presents itself, these rules will be used to maintain player-owned locations.
 ## [Homebrew Magic Items](https://docs.google.com/document/d/1Gok7-6kKU1rm5ghE3pTen_l8I9DjM7bpysYhdGWnwkg/edit?usp=sharing)
 I have created a number of homebrew magic items. These will be used as rewards.
 ## [Homebrew Poisons](https://docs.google.com/document/d/1FZPBtOvEG1Sikockh1VAGZlgkI7U1oqLCwxXlgaoEt4/edit?usp=sharing)
