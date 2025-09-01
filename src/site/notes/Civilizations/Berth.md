@@ -32,8 +32,4 @@ Lake Guile is a small body of water that Berth is built near. The lake serves ma
 ### Missing Cattle
 Recently in Berth, farmers have been reporting a foreign illness taking the lives of cattle. This is a great concern to the farmers of Berth, as the [[Wildlife/Fauna and Monstra/Hessan Great Cow\|Hessan Great Cow]] serves as a major source of income and resources for the village. Farmers report infected [cows](Hessan%20Great%20Cow) as slow to react to danger, blind, having a decreased appetite, having frequent loss of balance, and spending much of the day unconscious. The origin of the disease is unknown. Infected [cows](Hessan%20Great%20Cow) often die before the disease runs its course, often passing due to environmental complications emphasized by the disease or being picked off by predators when separated from the herd. 
 
-
-This is some normal text.
-::: hidden
-This is some private text that should not be published.
-:::
+😊
