@@ -21,7 +21,7 @@
 [[Provinces/Mershaw\|Mershaw]]
 [[Civilizations/Thuves\|Thuves]]
 ## Overview
-[[Hessa\|Hessa]], as a commonwealth, is split into four provinces. The provinces, although serving as constituent parts for the [Hessan](Hessa) commonwealth, often have numerous differences regarding governmental duties, protections for citizens, taxation, and law. Annually, leaders of each of the provinces meet to discuss universal [Hessan](Hessa) law, discuss policy changes, and address threats to the [Hessan](Hessa) people.
+[[Hessa\|Hessa]], as a commonwealth, is split into four provinces. The provinces, although serving as constituent parts for the [[Hessa\|Hessan]] commonwealth, often have numerous differences regarding governmental duties, protections for citizens, taxation, and law. Annually, leaders of each of the provinces meet to discuss universal [[Hessa\|Hessan]] law, discuss policy changes, and address threats to the [[Hessa\|Hessan]] people.
 ### [[Provinces/Frostmar\|Frostmar]]
 A large district that contains much of the frozen, northern land of Hessa. The Frostmar contains the major cities of [[Civilizations/Glacier's Hold\|Glacier's Hold]] and [[Civilizations/Felmsgrace\|Felmsgrace]] as well as much of the [[Cliffs of Canterra\|Cliffs of Canterra]] and the [[Fields of Leutece\|Fields of Leutece]].
 ### [[Provinces/Greatwood\|Greatwood]]

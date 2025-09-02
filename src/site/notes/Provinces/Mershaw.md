@@ -9,4 +9,4 @@
 [[Civilizations/Stomerstood\|Stomerstood]]
 [[Wellstone\|Wellstone]]
 ## Overview
-Mershaw is a [Hessan](Hessa) [province](Provinces) which makes up a majority of [[Hessa\|Hessa]]'s southern tip. Mershaw stretches from just north of the city of [[Civilizations/Stomerstood\|Stomerstood]] across to just south of the city of [[Wellstone\|Wellstone]]. The [province](Provinces) stretches southwards to the town of [[Markin\|Markin]] and across the southernmost coasts.
+Mershaw is a [[Hessa\|Hessan]] [[Provinces\|province]] which makes up a majority of [[Hessa\|Hessa]]'s southern tip. Mershaw stretches from just north of the city of [[Civilizations/Stomerstood\|Stomerstood]] across to just south of the city of [[Wellstone\|Wellstone]]. The [[Provinces\|province]] stretches southwards to the town of [[Markin\|Markin]] and across the southernmost coasts.

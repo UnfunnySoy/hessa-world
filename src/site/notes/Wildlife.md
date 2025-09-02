@@ -7,4 +7,4 @@
 [[Wildlife/Flora\|Flora]]
 [[Wildlife/Monstra\|Monstra]]
 ## Overview
-Many unique forms of life inhabit Hessa, often divided into their [flora](Flora.md) and [fauna](Fauna.md). In addition to these categories, an additional grouping for more [monstrous](Monstra.md) animals has been added. Oftentimes, this category overlaps with some of the creatures and plants in the [fauna](Fauna.md) and [flora](Flora.md) categories.
+Many unique forms of life inhabit Hessa, often divided into their [[Wildlife/Flora\|flora]] and [[Wildlife/Fauna\|fauna]]. In addition to these categories, an additional grouping for more [[Wildlife/Monstra\|monstrous]] animals has been added. Oftentimes, this category overlaps with some of the creatures and plants in the [[Wildlife/Fauna\|fauna]] and [[Wildlife/Flora\|flora]] categories.
