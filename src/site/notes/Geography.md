@@ -29,7 +29,7 @@ Detailed below is a list of geographical points of interest that populate [[Hess
 [[Geography/Cyra's Respite\|Cyra's Respite]]: A perpetually frozen island that sits in the north of [[Lake Cerithene\|Lake Cerithene]].
 [[Fields of Leutece\|Fields of Leutece]]: Great fields of ice and snow that reach across the [Hessan](Hessa) northern edge.
 [[Furious Coast\|Furious Coast]]: A long, craggy coast that extends from [[Hessa\|Hessa]]'s northeastern corner down to the city of [[Wellstone\|Wellstone]]
-[[Garner's Woods\|Garner's Woods]]: A forest extending through the [[Provinces/Forgon\|Forgon]] [[Provinces\|[province]]] known for its dangerous wildlife and hostile conditions.
+[[Garner's Woods\|Garner's Woods]]: A forest extending through the [[Provinces/Forgon\|Forgon]] [[Provinces\|province]] known for its dangerous wildlife and hostile conditions.
 [[Gulf of Freithel\|Gulf of Freithel]]: A large, open expanse of water southeast of [[Hessa\|Hessa]].
 [[Lake Cerithene\|Lake Cerithene]]: A large lake that sits in the middle of [[Hessa\|Hessa]]'s eastern landmass.
 [[River Klein\|River Klein]]: A spring-fed river beginning in the wooded regions of [[Provinces/Forgon\|Forgon]] and ending north of [[Civilizations/Stomerstood\|Stomerstood]].
