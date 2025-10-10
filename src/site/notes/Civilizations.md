@@ -33,7 +33,7 @@
 Many civilizations dot the Hessan landscape separated by large swathes of natural environment. These places often range in population, local customs, beliefs, religious activity, economy, and history. Populations often range from as few 50 persons to as many as 25,000 at the largest. Listed below is each civilization and a brief description of their most important details.
 
 [[Civilizations/Anthers\|Anthers]]: A minor, cattle-raising village frequently targeted in [[Factions/Aberrant Sisters\|Sister]] attacks.
-[[Civilizations/Berth\|Berth]]: A struggling village losing cattle to a mysterious disease. 
+[[Civilizations/Berth\|Berth]]: A northern village with a yearly fall festival. 
 [[Civilizations/Dargs\|Dargs]]: A village south of [[Civilizations/Helpherfrust\|Helpherfrust]] in which children have been disappearing in their sleep.
 [[Civilizations/Drunth\|Drunth]]: A fishing and trade village that protects an ancient cursed item. 
 [[Evan's Outpost\|Evan's Outpost]]: A small merchant town constructed by [[Evan Stormach\|Evan Stormach]], an ambitious trader.
