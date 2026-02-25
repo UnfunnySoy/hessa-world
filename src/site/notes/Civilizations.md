@@ -42,7 +42,7 @@ Many civilizations dot the Hessan landscape separated by large swathes of natura
 [[Guldin\|Guldin]]: A small, farming hamlet frequently targeted in [[Factions/Aberrant Sisters\|Sister]] attacks. 
 [[Civilizations/Harbsend\|Harbsend]]: A small city containing the [[Factions/Harbsend College of Sorcery\|Harbsend College of Sorcery]] where spellcasters go to study magic. 
 [[Civilizations/Helpherfrust\|Helpherfrust]]: A large coastal city consisting mainly of [[Races/Deep Dwarf\|dwarves]] and [[Races/Human\|humans]] which maintains many trade routes throughout most of [[Hessa\|Hessa]].
-[[Icegan\|Icegan]]: A small village that cuts ice from a nearby lake for a baron. 
+[[Civilizations/Icegan\|Icegan]]: A small village that cuts ice from a nearby lake for a baron. 
 [[Civilizations/Keppit\|Keppit]]: A wide-spread town consisting of hundreds of independent homesteads and family cottages.
 [[Markin\|Markin]]: A medium sized farming town known for its seasonal festivals. 
 [[Preton\|Preton]]: A small village north of [[Geography/Cyra's Respite\|Cyra's Respite]] that is losing cattle to [[Wildlife/Fauna and Monstra/Hessan Ice Wolf\|wolves]]. 
