@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/hessa/civilization/helpherfrust/","tags":["Civilization","Hessa"],"dg-note-properties":{"tags":["Civilization","Hessa"]}}
+---
+
+## Overview
+The city of Helpherfrust is mostly a [[Races/Deep Dwarf\|dwarven]] and [[Races/Human\|human]] area. Here, most civilians lead simple and calm lives; however, as mostly [[Races/Deep Dwarf\|dwarves]] and [[Races/Human\|humans]] live together, there are many conflicts between tradition and the future. Although they normally share understanding and respect for each other, many [[Races/Deep Dwarf\|dwarves]] and [[Races/Human\|humans]] share differing political views pertaining to the direction of Helpherfrust and its allocation of resources. [[Races/Human\|Humans]] in Helpherfrust, for example, believe that innovation is key, and that opening new ports for trade is integral to making Helpherfrust a more wealthy city, while [[Races/Deep Dwarf\|dwarves]] and [[Races/Snow Elf\|elves]] in Helpherfrust believe that the city is fine how it is, often dedicating themselves to their simple working lifestyles. Helpherfrust is in a bit of a sensitive situation, as many of their harbors are currently utilized to make ships while some ask for trade to become more prominent. Other than these conflicts of interest, [[Races/Deep Dwarf\|dwarves]] and [[Races/Human\|humans]] live peacefully together in Helpherfrust and often work together to complete tasks and work jobs as necessary. One major benefit of humans and dwarves living together is that humans are able to provide new and interesting ideas while dwarves are able to provide strong support with their well-structured plans. Helpherfrust is quickly growing at about 16,000 inhabitants.
+## Resources
+## Climate
+## Points of Interest

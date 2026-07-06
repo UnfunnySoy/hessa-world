@@ -1,17 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/mundane-items/weapons/"}
+{"dg-publish":true,"permalink":"/mundane-items/weapons/","dg-note-properties":{}}
 ---
 
-## Links from this page
-[[Arie Dynasty\|Arie Dynasty]]
-[[Buge\|Buge]]
-[[Races/Deep Dwarf\|Deep Dwarf]]
-[[Hessa\|Hessa]]
-[[Mundane Items/Weapons/Slitte\|Slitte]]
-[[Soldesh\|Soldesh]]
 ## Overview
-There are a number of unique and specialized weapons that populate the [[Hessa\|Hessan]] region.
+There are a number of unique and specialized weapons that populate the [[Hessa/Hessa\|Hessan]] region.
 
 [[Buge\|Buge]]: A bulky and unwieldy pickaxe used by the [[Races/Deep Dwarf\|dwarves]] to excavate resources.
-[[Mundane Items/Weapons/Slitte\|Slitte]]: A long, spear-like weapon used by [[Hessa\|Hessan]] guards and travelers to maintain the peace.
+[[Mundane Items/Weapons/Slitte\|Slitte]]: A long, spear-like weapon used by [[Hessa/Hessa\|Hessan]] guards and travelers to maintain the peace.
 [[Soldesh\|Soldesh]]: A large, lightweight sword used by members of the [[Arie Dynasty\|Arie Dynasty]].

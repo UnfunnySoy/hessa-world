@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/hessa/wildlife/flora/inerga-root/","tags":["Wildlife/Flora","Hessa"],"dg-note-properties":{"tags":["Wildlife/Flora","Hessa"]}}
+---
+
+## Overview
+The inerga root is a dark orange root often described as a cross between a carrot and a sweet potato. The root grows all across [[Hessa/Hessa\|Hessa]], having great cold resilience as well as being able to take advantage of warm, nutrient-rich environments. The root, when eaten raw, has a stimulating effect which raises heart rate and makes the body quicker; a property frequently exploited by alchemists to create medicines to flush toxins from the body and potions of swiftness. When cooked, the root loses its stimulating properties; however, it can be fashioned into various savory and subtly sweet dishes. The inerga root is the most common agricultural product of [[Hessa/Hessa\|Hessa]], often being transported throughout to be eaten in about half of all meals. Its versatility paired with nonnative vegetables, other grown products, and animal proteins make hearty and satisfying meals.

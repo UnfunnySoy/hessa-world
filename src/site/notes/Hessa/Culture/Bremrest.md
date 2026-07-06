@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/hessa/culture/bremrest/","tags":["Culture","Hessa"],"dg-note-properties":{"tags":["Culture","Hessa"]}}
+---
+
+## Overview
+Community is very important in [[Hessa/Hessa\|Hessan]] culture. After many years of self improvement and occupational growth, it is believed that Hessan adults should give back to their community and share their knowledge. Oftentimes, adults will work until they have enough money for a “bremrest,” or “little break.” During the bremrest, adults will build families, raise children, and teach young adults trades or other skills. Additionally, adults may also complete community service or attempt to learn new skills during a bremrest, allowing them to change the direction of their lives and study other interests. After bremrest, an adult may return to work or pursue another path for their lives. Many years after, an adult might choose to finally retire. At this point, it is expected that the adult’s family take care of them as they live out the final years of their lives.

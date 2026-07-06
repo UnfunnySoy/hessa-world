@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/hessa/wildlife/flora/meadwood-mushroom/","tags":["Wildlife/Flora","Hessa"],"dg-note-properties":{"tags":["Wildlife/Flora","Hessa"]}}
+---
+
+## Overview
+The meadwood mushroom is a flattened, burnt-amber fungus often foraged by travelers through the [[Hessa/Hessa\|Hessan]] commonwealth. The mushroom grows in thick discus shapes on the edges of fallen trees and also sprouts from the ground in small, rose-like spirals. Meadwood, when eaten raw, has a distinct gritty texture with a potent and sickening sweetness not dissimilar to contaminated mead. After ingesting a raw meadwood mushroom, the stomach becomes severely irritated and the consumer becomes nauseous, often vomiting or otherwise involuntarily voiding their bowels. When dried and powdered, the mushroom becomes a concentrated, [[Mundane Items/Poisons/Powdered Meadwood\|noxious powder]] which can induce vomiting when consumed. If grilled, steamed, or otherwise cooked, the mushroom becomes a supple, fleshy snack with a light earthy flavor.

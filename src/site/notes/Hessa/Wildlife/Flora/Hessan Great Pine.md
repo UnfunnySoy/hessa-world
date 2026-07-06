@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/hessa/wildlife/flora/hessan-great-pine/","tags":["Wildlife/Flora","Hessa"],"dg-note-properties":{"tags":["Wildlife/Flora","Hessa"]}}
+---
+
+## Overview
+The [[Hessa/Hessa\|Hessan]] great pine is a large tree that covers a great portion of [[Hessa/Hessa\|Hessan]] land. The wood from this tree is hardy and water-resistant, making it a great material for constructing buildings and ships on violent coastlines. Additionally, the wood makes a thick and viscous sap that has a variety of uses in cooking, potion brewing, and crafting. The sap, when boiled and purified, makes a sticky syrup often used in various drinks and meals to introduce notes of woody sweetness. The sap, after it has soaked into wood and been allowed to rest for many months, creates a flammable resin often used to start fires and burn in torches. Finally, the sap can be used in potion crafting and alchemy to make items such as alchemist’s fire, potions of fire breath, potions of strength and growth, and potions of heroism. The [[Hessa/Hessa\|Hessan]] great pine serves the important purpose of providing materials for infrastructure throughout all of the [[Hessa/Hessa\|Hessan]] commonwealth.
